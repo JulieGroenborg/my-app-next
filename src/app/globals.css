@@ -25,3 +25,18 @@
     )
     rgb(var(--background-start-rgb));
 } */
+
+.bg {
+  padding: 5px 5px 5px 0;
+  margin: 5px 5px 5px 0;
+  text-decoration: underline 1px solid;
+}
+
+body {
+  margin: 50px;
+}
+
+img {
+  width: auto;
+  height: auto;
+}

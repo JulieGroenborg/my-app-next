@@ -6,7 +6,7 @@ export const metadata = {
 export default function Home() {
   return (
     <main>
-      <h1>Hej</h1>
+      <h1>Dette er vores forside</h1>
     </main>
   );
 }
