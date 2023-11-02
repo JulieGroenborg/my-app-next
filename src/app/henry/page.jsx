@@ -14,7 +14,7 @@ export default async function Henry() {
   return (
     <main>
       <h1>
-        {data.name}'s yndlingsfarve er {data.favouriteColor}
+        {data.name}s yndlingsfarve er {data.favouriteColor}
       </h1>
       <img width={250} src={data.image.url} alt="" />
     </main>
